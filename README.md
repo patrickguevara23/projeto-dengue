@@ -1,4 +1,4 @@
-# Visualização de Dados: Sazonalidade da Dengue em Campinas-SP (1998-2014)
+# Visualização e Análise de Dados: Sazonalidade da Dengue em Campinas-SP (1998-2014)
 
 Este projeto utiliza técnicas de visualização de dados para investigar se a dengue apresenta padrões sazonais na cidade de Campinas-SP entre os anos de 1998 e 2014. O objetivo é identificar possíveis tendências temporais e variáveis correlacionadas com o aumento ou a diminuição da doença, utilizando dados meteorológicos e de saúde pública.
 ---
